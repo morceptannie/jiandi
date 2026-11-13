@@ -1,0 +1,8 @@
+{
+  "name": "建迪企業股份有限公司 — ToB / ToC 雙官網 Demo",
+  "description": "建迪企業股份有限公司 (Chien Ti Enterprise) WordPress Enfold 雙站式改版提案：結合 ToB 全球醫療輔具 OEM/ODM 官網與 ToC 居家照護親子直購館，內建 Filter Everything Pro 多維度即時篩選。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
